@@ -1,7 +1,7 @@
 let btn = document.getElementById("hirebtn");
 
 btn.addEventListener("click", function(){
-    alert("Hello Sir!")
+    alert("Hello Sir/Mam!")
 })
 
 let themebutton = document.getElementById("theme");
